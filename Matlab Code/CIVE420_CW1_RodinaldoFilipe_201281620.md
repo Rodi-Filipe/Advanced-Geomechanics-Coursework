@@ -230,7 +230,7 @@ To calculate the material parameters K and G of the classical elastic perfectly 
 ## Question 2
 
 
-***"Determine Young’s modulus and Poisson’s rate"***
+***"Determine the Young’s modulus and Poisson’s rate"***
 
 
 
