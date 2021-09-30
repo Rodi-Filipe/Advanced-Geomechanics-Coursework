@@ -9,7 +9,7 @@ In this report the the material parameters of a a classical elastic perfectly pl
 ## Problem Brief
 
 
-Determine the material parameters of the classical elastic perfectly plastic Mohr-Coulomb model for dry sands using the data (shown below) from the corresponding material triaxial tests (Figure 1). The tests were performed with <img src="https://latex.codecogs.com/gif.latex?\inline&space;\sigma_r"/>* *=100 and 200 kPa, respectively. The *F-*<img src="https://latex.codecogs.com/gif.latex?\inline&space;\alpha"/>* *failure envelope for the shallow foundation shown in Figure 2 is estimated using the limit analysis with the calculated material parameters
+Determine the material parameters of the classical elastic perfectly plastic Mohr-Coulomb model for dry sands using the data (shown below) from the corresponding material triaxial tests (Figure 1). The tests were performed with <img src="https://render.githubusercontent.com/render/math?math=\sigma_r"/> *=100 and 200 kPa, respectively. The *F-*<img src="https://latex.codecogs.com/gif.latex?\inline&space;\alpha"/>* *failure envelope for the shallow foundation shown in Figure 2 is estimated using the limit analysis with the calculated material parameters
 
 
 
