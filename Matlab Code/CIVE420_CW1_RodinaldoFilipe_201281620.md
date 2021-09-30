@@ -9,7 +9,7 @@ In this report the the material parameters of a a classical elastic perfectly pl
 ## Problem Brief
 
 
-Determine the material parameters of the classical elastic perfectly plastic Mohr-Coulomb model for dry sands using the data (shown below) from the corresponding material triaxial tests (Figure 1). The tests were performed with <img src="https://render.githubusercontent.com/render/math?math=\sigma_r"/> *=100 and 200 kPa, respectively. The *F-*<img src="https://latex.codecogs.com/gif.latex?\inline&space;\alpha"/>* *failure envelope for the shallow foundation shown in Figure 2 is estimated using the limit analysis with the calculated material parameters
+Determine the material parameters of the classical elastic perfectly plastic Mohr-Coulomb model for dry sands using the data (shown below) from the corresponding material triaxial tests (Figure 1). The tests were performed with *<img src="https://latex.codecogs.com/gif.latex?\inline&space;\sigma_r"/>*=100 and 200 kPa, respectively. The *F-*<img src="https://latex.codecogs.com/gif.latex?\inline&space;\alpha"/> failure envelope for the shallow foundation shown in Figure 2 is estimated using the limit analysis with the calculated material parameters
 
 
 
@@ -88,22 +88,19 @@ printdat(inputdat)
 
 
 
-![image_0.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_0.png)
+![image_0.png](Images/image_0.png)
 
 
 
 
-![image_1.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_1.png)
+![image_1.png](Images/image_1.png)
 
 
   
 ## Question 1 
 
 
-***"Draw the p-***<img src="https://latex.codecogs.com/gif.latex?\inline&space;\begin{array}{l}
-\varepsilon_p&space;\\
-\textrm{curve}\;\textrm{and}\;\textrm{the}\;\textrm{q}\textrm{-}{\varepsilon&space;}
-\end{array}"/>*** and q-***<img src="https://latex.codecogs.com/gif.latex?\inline&space;\varepsilon_q"/>*** curve for both cases and determine the material parameters K and G;"***
+***"Draw the p-<img src="https://latex.codecogs.com/gif.latex?\inline&space;\varepsilon_q"/>*** **_curve and the q_**-***<img src="https://latex.codecogs.com/gif.latex?\inline&space;\varepsilon_q"/>*** **_curve for both cases and determine the material parameters K and G_**"
 
 
 
@@ -217,7 +214,7 @@ plotfunc1(p,e_p,q,e_q)
 ```
 
 
-![figure_0.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/figure_0.png)
+![figure_0.png](Images/figure_0.png)
 
 
 
@@ -278,7 +275,7 @@ plotfunc2(q,p)
 ```
 
 
-![figure_1.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/figure_1.png)
+![figure_1.png](Images/figure_1.png)
 
 
 
@@ -366,7 +363,7 @@ plotfunc4
 ```
 
 
-![figure_2.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/figure_2.png)
+![figure_2.png](Images/figure_2.png)
 
 ## Question 5
 
@@ -376,7 +373,7 @@ plotfunc4
 
 
 
-![image_2.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_2.png)
+![image_2.png](Images/image_2.png)
 
 
 > Optum G2 Model
@@ -440,7 +437,7 @@ plotfunc5(optumdat)
 ```
 
 
-![figure_3.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/figure_3.png)
+![figure_3.png](Images/figure_3.png)
 
 
 
@@ -454,12 +451,12 @@ Additional results and insights about the problem can be obtained by examining t
 
 
 
-![image_3.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_3.png)
+![image_3.png](Images/image_3.png)
 
 
 
 
-![image_4.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_4.png)
+![image_4.png](Images/image_4.png)
 
 
 > Models' Mean Stress Field
@@ -468,12 +465,12 @@ Additional results and insights about the problem can be obtained by examining t
   
 
 
-![image_5.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_5.png)
+![image_5.png](Images/image_5.png)
 
 
 
 
-![image_6.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_6.png)
+![image_6.png](Images/image_6.png)
 
 
 > Models' Shear Stress Field
@@ -482,12 +479,12 @@ Additional results and insights about the problem can be obtained by examining t
   
 
 
-![image_7.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_7.png)
+![image_7.png](Images/image_7.png)
 
 
 
 
-![image_8.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_8.png)
+![image_8.png](Images/image_8.png)
 
 
 > Models' Volumetric Strain Field
@@ -496,12 +493,12 @@ Additional results and insights about the problem can be obtained by examining t
   
 
 
-![image_9.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_9.png)
+![image_9.png](Images/image_9.png)
 
 
 
 
-![image_10.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_10.png)
+![image_10.png](Images/image_10.png)
 
 
 > Models' Shear Strain Field
@@ -510,12 +507,12 @@ Additional results and insights about the problem can be obtained by examining t
   
 
 
-![image_11.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_11.png)
+![image_11.png](Images/image_11.png)
 
 
 
 
-![image_12.png](CIVE420_CW1_RodinaldoFilipe_201281620_images/image_12.png)
+![image_12.png](Images/image_12.png)
 
 
 > Models' Displacement Maginuted Field 
